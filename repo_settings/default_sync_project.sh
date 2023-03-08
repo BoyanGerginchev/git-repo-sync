@@ -6,9 +6,9 @@
 
 # Configure location of your remote Git repositories.
 #
-url_a=https://example.com/git/my_repo.git
+url_a=https://github.com/BoyanGerginchev/TestGitGo
 #
-url_b='/c/my-folder/my-local-git-repo-folder'
+url_b=https://github.com/BoyanGerginchev/TestGO2
 
 # Don't sync all branches. Synchronize branches with the following prefix.
 #
