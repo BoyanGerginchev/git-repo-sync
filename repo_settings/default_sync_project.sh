@@ -8,7 +8,7 @@
 #
 url_a=https://github.com/BoyanGerginchev/TestGitGo
 #
-url_b=https://github.com/BoyanGerginchev/TestGO2
+url_b=https://electProLtd@dev.azure.com/electProLtd/GitHubTest/_git/GitHubTest
 
 # Don't sync all branches. Synchronize branches with the following prefix.
 #
